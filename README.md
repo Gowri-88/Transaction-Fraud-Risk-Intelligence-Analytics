@@ -132,3 +132,18 @@ These metrics support assessment of detection effectiveness and operational impa
 
 ---
 
+Business Impact
+
+This project demonstrates how raw transaction data can be converted into practical fraud decision support.
+
+By implementing behavioral risk scoring and tier-based prioritization, organizations can:
+
+- Focus investigation efforts on the most economically risky transactions
+- Reduce manual review inefficiencies through structured risk segmentation
+- Quantify how much fraud is actually being captured
+- Understand the trade-off between detection coverage and false positives
+- Measure financial value generated from fraud prevention efforts
+
+Instead of reacting to losses after they occur, this framework enables proactive risk management supported by measurable performance metrics and financial impact analysis. It establishes a scalable, explainable foundation for structured fraud monitoring and continuous performance optimization.
+
+
